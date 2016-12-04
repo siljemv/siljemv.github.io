@@ -9,7 +9,7 @@
 .para {
 	font-family: 'Patrick Hand', cursive;
 	float: right !important;
-	border: 2px solid black;
+	border: 2px;
     border-radius: 10px;
     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/aa/fe/8d/aafe8ddeee5822329416be8036309e58.jpg");
 }
@@ -17,6 +17,7 @@
 .photo1{
     opacity: 0.5;
     filter: alpha(opacity=50);
+    border: 5px solid black;
 }
 
 
